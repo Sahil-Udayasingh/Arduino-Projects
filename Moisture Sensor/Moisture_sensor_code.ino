@@ -10,7 +10,7 @@ void loop() {
   Serial.println(moisture);
   delay(100);
   if(moisture>700)
-  digitalWrite(pump1,HIGH);
+  digitalWrite(led,HIGH);
   else
-  digitalWrite(pump1,LOW);
+  digitalWrite(led,LOW);
 }
