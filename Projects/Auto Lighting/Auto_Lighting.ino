@@ -1,22 +1,22 @@
 #include <dht.h>
 
-#define dataPin A2
+#define dataPin 2
 dht DHT;
 
 int c=0;
 
 void setup() {
-  pinMode(A0,INPUT);
-  pinMode(A3,INPUT);
+  pinMode(3,INPUT);
+  pinMode(4,INPUT);
   pinMode(11,OUTPUT);
   pinMode(13,OUTPUT);
   Serial.begin(9600);
 }
 
 void loop() {
-  if(analogRead(A0)<500)
+  if(analogRead(3)<500)
   c++;
-  if(analogRead(A3)<500)
+  if(analogRead(4)<500)
   c--;
   Serial.println(c);
   delay(500);
