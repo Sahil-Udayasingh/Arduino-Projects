@@ -5,7 +5,7 @@ Servo x;
 void setup() {
   // put your setup code here, to run once:
   pinMode(A0,INPUT);
-  x.attach(11);
+  x.attach(9);
   Serial.begin(9600);
 }
 
