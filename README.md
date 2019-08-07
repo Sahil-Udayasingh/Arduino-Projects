@@ -5,5 +5,5 @@ Starting With some basic sensors
 2. Ultrasonic Sensor
 3. Humidity sensor
 4. Moisture Sensor
-5. Traffic Light Project
-6. Servo using bluetooth
+5. Flame Sensor
+6. PIR Motion Sensor
