@@ -11,3 +11,5 @@ Starting With some basic sensors
 Projects
 1. Home Automation
 2. Auto - irrigation
+3. Anti - theft
+4. Auto - lighting
