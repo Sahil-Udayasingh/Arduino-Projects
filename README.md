@@ -14,3 +14,5 @@ Projects
 3. Anti - theft
 4. Auto - lighting
 5. Remote controlled car
+6. Traffic light
+7. Servo using Bluetooth
