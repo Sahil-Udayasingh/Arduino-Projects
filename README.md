@@ -7,3 +7,7 @@ Starting With some basic sensors
 4. Moisture Sensor
 5. Flame Sensor
 6. PIR Motion Sensor
+
+Projects
+1. Home Automation
+2. Auto - irrigation
