@@ -7,6 +7,7 @@ Starting With some basic sensors
 4. Moisture Sensor
 5. Flame Sensor
 6. PIR Motion Sensor
+7. RFID Sensor
 
 Projects
 1. Home Automation
