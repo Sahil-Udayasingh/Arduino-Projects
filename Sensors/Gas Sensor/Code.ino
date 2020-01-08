@@ -7,7 +7,7 @@ void setup() {
 }
 
 void loop() {
-  int analogSensor = analogRead(smokeA0);
+  int analogSensor = analogRead(smokeA0); //input sensor value
 
   Serial.print("Pin A0: ");
   Serial.println(analogSensor);
